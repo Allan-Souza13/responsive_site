@@ -126,7 +126,7 @@ nav a:hover
     text-align: right;
     padding: 2.5rem;
     text-align: center;
-    background-image: url(./img/onda.svg);
+    background-image: url(./onda.svg);
     /* word-break: break-all; */
 }
 
@@ -164,19 +164,19 @@ padding: 0.5rem;
 }
 
 .icon-1::before{
-    content: url(/img/eletrica.svg);
+    content: url(/eletrica.svg);
     display: inline-block;
     margin-right: 0.5rem;
     
 }
 .icon-2::before{
-    content: url(/img/velocidade.svg);
+    content: url(/velocidade.svg);
     display: inline-block;
     margin-right: 0.5rem;
     
 }
 .icon-3::before{
-    content: url(/img/rastreador.svg);
+    content: url(/rastreador.svg);
     display: inline-block;
     margin-right: 0.5rem;
     
